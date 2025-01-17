@@ -309,7 +309,7 @@
       "updatedAt": "2024-05-05T09:00:00Z"
     }
   ],
-"updatedTitles": [
+  "updatedTitles": [
     {
       "id": "123456",
       "type": "Manhwa",
@@ -623,6 +623,86 @@
     {
       "id": "50",
       "name": "Martial Arts"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Curso de React",
+      "endDate": "12/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-52e4c926-3fa3-41b0-bd40-267523b31a61/"
+    },
+    {
+      "name": "Curso de Typescript",
+      "endDate": "11/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-80e7054f-03c5-4908-84f1-03ba9c8b972b/"
+    },
+    {
+      "name": "Curso de Front-end",
+      "endDate": "11/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-4073eb31-f168-4baa-bf68-5634bcbc1967/"
+    },
+    {
+      "name": "Curso de Java",
+      "endDate": "10/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-1d91eecb-f97a-4b6e-ad2e-2cb0b5b91df5/"
+    },
+    {
+      "name": "Curso de Figma",
+      "endDate": "10/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-1d91eecb-f97a-4b6e-ad2e-2cb0b5b91df5/"
+    },
+    {
+      "name": "Curso de Node.js",
+      "endDate": "09/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-34d3b6f4-7952-40a2-8735-b9dc3b324c1c/"
+    },
+    {
+      "name": "Santander Bootcamp | Java",
+      "endDate": "07/2024",
+      "platform": "DIO",
+      "credentialUrl": "https://hermes.dio.me/certificates/PHJEFGEN.pdf"
+    },
+    {
+      "name": "Curso de Javascript",
+      "endDate": "04/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-fca34380-7b03-406d-9800-1b151335832c/"
+    },
+    {
+      "name": "Santander Bootcamp | Javascript",
+      "endDate": "02/2024",
+      "platform": "DIO",
+      "credentialUrl": "https://hermes.dio.me/certificates/K0Y9UYH4.pdf"
+    },
+    {
+      "name": "Curso de Git e Github",
+      "endDate": "02/2024",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-b9eb5669-b222-47f5-ab88-39ddef43a78e/"
+    },
+    {
+      "name": "Curso de SASS",
+      "endDate": "09/2023",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-df57fceb-4d6f-490c-9ea5-ca017ebdf803/"
+    },
+    {
+      "name": "Curso de Bootstrap",
+      "endDate": "08/2023",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-09be9a09-ebf3-40ea-8db8-eb1d3ade5da6/"
+    },
+    {
+      "name": "Curso de TailwindCSS",
+      "endDate": "08/2023",
+      "platform": "Udemy",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-f9e7392e-ff4c-4c9b-9ce1-f336e7d6a79a/"
     }
   ]
 }
