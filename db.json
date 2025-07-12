@@ -6,8 +6,38 @@
       "cover": "https://images.alphacoders.com/135/1359819.jpeg",
       "name": "Solo Leveling",
       "synopsis": "Sung Jin-woo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma masmorra dupla, que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão!",
-      "genres": ["Ação", "Aventura", "Fantasia", "Mistério"],
-      "chapters": ["99", "100", "100,5", "1001"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Mistério"
+      ],
+      "chapters": [
+        {
+          "number": "99",
+          "title": "Chapter 99",
+          "releaseDate": "2023-01-01",
+          "pages": "45"
+        },
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2023-01-15",
+          "pages": "48"
+        },
+        {
+          "number": "100,5",
+          "title": "Chapter 100.5",
+          "releaseDate": "2023-02-01",
+          "pages": "30"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2023-02-15",
+          "pages": "50"
+        }
+      ],
       "popularity": "1",
       "score": "9.8",
       "author": "Chugong",
@@ -22,8 +52,33 @@
       "cover": "https://images8.alphacoders.com/108/1081458.jpg",
       "name": "Shingeki no Kyojin",
       "synopsis": "Attack on Titan se passa em um mundo onde a humanidade vive dentro de cidades cercadas por enormes Muralhas que os protegem dos Titãs, criaturas humanóides gigantes que devoram humanos aparentemente sem motivo. A história gira em torno de Eren Jaeger, sua irmã adotiva Mikasa Ackerman e seu amigo de infância Armin Arlert, cujas vidas mudam para sempre após o aparecimento de um Titã Colossal, que provoca a destruição de sua cidade natal e a morte da mãe de Eren. Jurando vingança e recuperar o mundo dos Titãs, Eren, Mikasa e Armin se juntam a Divisão de Reconhecimento, um grupo de elite de soldados que lutam contra Titãs fora das Muralhas.",
-      "genres": ["Ação", "Drama", "Fantasia", "Mistério", "Terror"],
-      "chapters": ["139", "139,5", "140"],
+      "genres": [
+        "Ação",
+        "Drama",
+        "Fantasia",
+        "Mistério",
+        "Terror"
+      ],
+      "chapters": [
+        {
+          "number": "139",
+          "title": "Chapter 139",
+          "releaseDate": "2025-07-12",
+          "pages": "46"
+        },
+        {
+          "number": "139,5",
+          "title": "Chapter 139,5",
+          "releaseDate": "2025-07-11",
+          "pages": "47"
+        },
+        {
+          "number": "140",
+          "title": "Chapter 140",
+          "releaseDate": "2025-07-10",
+          "pages": "41"
+        }
+      ],
       "popularity": "2",
       "score": "9.6",
       "author": "Hajime Isayama",
@@ -38,8 +93,33 @@
       "cover": "https://wallpapers.com/images/high/naruto-manga-e86faunm0r96om1e.webp",
       "name": "Naruto Clássico",
       "synopsis": "Naruto (ナルト) é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.",
-      "genres": ["Ação", "Aventura", "Comédia", "Drama", "Fantasia"],
-      "chapters": ["700", "700,5", "701"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Drama",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "700",
+          "title": "Chapter 700",
+          "releaseDate": "2025-07-12",
+          "pages": "37"
+        },
+        {
+          "number": "700,5",
+          "title": "Chapter 700,5",
+          "releaseDate": "2025-07-11",
+          "pages": "34"
+        },
+        {
+          "number": "701",
+          "title": "Chapter 701",
+          "releaseDate": "2025-07-10",
+          "pages": "37"
+        }
+      ],
       "popularity": "3",
       "score": "9.5",
       "author": "Masashi Kishimoto",
@@ -54,8 +134,32 @@
       "cover": "https://cdn.myanimelist.net/images/anime/6/74916l.jpg?_gl=1*119kumj*_gcl_au*MTQxNzU4NDYwMy4xNzMwNTgyMjEy*_ga*NzQ0MDI0MjM3LjE3MzA1ODIyMDU.*_ga_26FEP9527K*MTczMjczMTU3NS41LjEuMTczMjczMTk2MS41OC4wLjA.",
       "name": "Tokyo Ghoul",
       "synopsis": "Tokyo Ghoul é uma série de mangá escrita e ilustrada por Sui Ishida. A história segue Ken Kaneki, um estudante universitário que quase morre em um encontro às cegas com Rize Kamishiro, uma mulher que se revela um Ghoul. Kaneki é levado ao hospital em estado crítico. Depois de recuperar a consciência, ele descobre que passou por uma cirurgia que o transformou em meio-Ghoul. Isso o transforma em um ser híbrido, meio humano e meio Ghoul, e ele é forçado a viver escondido dos humanos.",
-      "genres": ["Ação", "Terror", "Drama", "Mistério"],
-      "chapters": ["143", "144", "145"],
+      "genres": [
+        "Ação",
+        "Terror",
+        "Drama",
+        "Mistério"
+      ],
+      "chapters": [
+        {
+          "number": "143",
+          "title": "Chapter 143",
+          "releaseDate": "2025-07-12",
+          "pages": "45"
+        },
+        {
+          "number": "144",
+          "title": "Chapter 144",
+          "releaseDate": "2025-07-11",
+          "pages": "47"
+        },
+        {
+          "number": "145",
+          "title": "Chapter 145",
+          "releaseDate": "2025-07-10",
+          "pages": "30"
+        }
+      ],
       "popularity": "5",
       "score": "9.3",
       "author": "Sui Ishida",
@@ -70,8 +174,32 @@
       "cover": "https://images3.alphacoders.com/134/1342304.jpeg",
       "name": "One Piece",
       "synopsis": "One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. A história segue as aventuras de Monkey D. Luffy, um jovem cujo corpo ganhou as propriedades de borracha após ter ingerido uma Fruta do Diabo acidentalmente. Com sua tripulação de piratas, chamada de Straw Hat Pirates, Luffy explora a Grand Line em busca do One Piece, o maior tesouro do mundo, para se tornar o Rei dos Piratas.",
-      "genres": ["Ação", "Aventura", "Comédia", "Fantasia"],
-      "chapters": ["1000", "1000,5", "1001"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "1000",
+          "title": "Chapter 1000",
+          "releaseDate": "2025-07-12",
+          "pages": "39"
+        },
+        {
+          "number": "1000,5",
+          "title": "Chapter 1000,5",
+          "releaseDate": "2025-07-11",
+          "pages": "33"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-10",
+          "pages": "40"
+        }
+      ],
       "popularity": "6",
       "score": "9.2",
       "author": "Eiichiro Oda",
@@ -86,8 +214,37 @@
       "cover": "https://cdn.myanimelist.net/images/anime/7/85886l.jpg",
       "name": "Tales of Demons and Gods",
       "synopsis": "Tales of Demons and Gods segue a vida de Nie Li, um dos mais fortes Espiritualistas de sua geração. Ele foi morto por um sábio Imperador Celestial e reencarnou 13 anos no passado. Ele tentará mudar o futuro e salvar sua cidade natal de sua ruína.",
-      "genres": ["Ação", "Aventura", "Fantasia"],
-      "chapters": ["300", "299", "298", "300"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "300",
+          "title": "Chapter 300",
+          "releaseDate": "2025-07-12",
+          "pages": "34"
+        },
+        {
+          "number": "299",
+          "title": "Chapter 299",
+          "releaseDate": "2025-07-11",
+          "pages": "34"
+        },
+        {
+          "number": "298",
+          "title": "Chapter 298",
+          "releaseDate": "2025-07-10",
+          "pages": "42"
+        },
+        {
+          "number": "300",
+          "title": "Chapter 300",
+          "releaseDate": "2025-07-09",
+          "pages": "36"
+        }
+      ],
       "popularity": "9",
       "score": "8.9",
       "author": "Mad Snail",
@@ -102,8 +259,37 @@
       "cover": "https://cdn.myanimelist.net/images/manga/1/205814l.jpg",
       "name": "The God of High School",
       "synopsis": "The God of High School segue a vida de Jin Mo-Ri, um estudante do ensino médio que é um mestre em Taekwondo e um lutador excepcional. Ele é convidado para participar de um torneio chamado The God of High School, onde os competidores lutam uns contra os outros para ganhar o título de Deus do Ensino Médio. Jin Mo-Ri é um dos competidores mais fortes e habilidosos do torneio e está determinado a vencer.",
-      "genres": ["Ação", "Comédia", "Fantasia"],
-      "chapters": ["500", "499", "498", "500"],
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-12",
+          "pages": "42"
+        },
+        {
+          "number": "499",
+          "title": "Chapter 499",
+          "releaseDate": "2025-07-11",
+          "pages": "32"
+        },
+        {
+          "number": "498",
+          "title": "Chapter 498",
+          "releaseDate": "2025-07-10",
+          "pages": "35"
+        },
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-09",
+          "pages": "35"
+        }
+      ],
       "popularity": "10",
       "score": "8.8",
       "author": "Yongje Park",
@@ -118,8 +304,32 @@
       "cover": "https://cdn.myanimelist.net/images/manga/3/180022l.jpg",
       "name": "Bleach",
       "synopsis": "Bleach segue as aventuras de Ichigo Kurosaki, um jovem que acidentalmente adquire poderes de um Shinigami, um ser sobrenatural que combate os espíritos malignos conhecidos como Hollows. Com seus novos poderes, Ichigo é forçado a assumir o papel de um Shinigami e proteger a cidade de Karakura de ameaças espirituais.",
-      "genres": ["Ação", "Comédia", "Fantasia", "Terror"],
-      "chapters": ["800", "800,5", "801"],
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Fantasia",
+        "Terror"
+      ],
+      "chapters": [
+        {
+          "number": "800",
+          "title": "Chapter 800",
+          "releaseDate": "2025-07-12",
+          "pages": "36"
+        },
+        {
+          "number": "800,5",
+          "title": "Chapter 800,5",
+          "releaseDate": "2025-07-11",
+          "pages": "47"
+        },
+        {
+          "number": "801",
+          "title": "Chapter 801",
+          "releaseDate": "2025-07-10",
+          "pages": "38"
+        }
+      ],
       "popularity": "11",
       "score": "8.7",
       "author": "Tite Kubo",
@@ -134,8 +344,32 @@
       "cover": "https://cdn.myanimelist.net/images/manga/1/257841l.jpg",
       "name": "Tower of God",
       "synopsis": "Tower of God segue a jornada de um jovem chamado Bam, que entra em uma torre para encontrar sua amiga Rachel. A torre é um lugar misterioso e cheio de perigos, onde cada andar é governado por um teste. Bam é um Irregular, alguém que não foi escolhido para entrar na torre, mas que entrou por conta própria. Ele é o único Irregular que entrou na torre e é conhecido como o mais fraco de todos. No entanto, ele tem um poder misterioso e é determinado a subir a torre para encontrar Rachel.",
-      "genres": ["Ação", "Aventura", "Fantasia", "Mistério"],
-      "chapters": ["500", "500,5", "501"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Mistério"
+      ],
+      "chapters": [
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-12",
+          "pages": "32"
+        },
+        {
+          "number": "500,5",
+          "title": "Chapter 500,5",
+          "releaseDate": "2025-07-11",
+          "pages": "45"
+        },
+        {
+          "number": "501",
+          "title": "Chapter 501",
+          "releaseDate": "2025-07-10",
+          "pages": "37"
+        }
+      ],
       "popularity": "14",
       "score": "8.4",
       "author": "SIU",
@@ -150,8 +384,38 @@
       "cover": "https://cdn.myanimelist.net/images/manga/3/252929l.jpg?_gl=1*123aoip*_gcl_au*MTQxNzU4NDYwMy4xNzMwNTgyMjEy*_ga*NzQ0MDI0MjM3LjE3MzA1ODIyMDU.*_ga_26FEP9527K*MTczNDk1OTAzNS43LjEuMTczNDk1OTA3MS4yNC4wLjA.",
       "name": "Kaiju No. 8",
       "synopsis": "Kaiju No. 8 segue a história de Kafka Hibino, um homem que sonha em se tornar um caçador de Kaiju, monstros gigantes que ameaçam a humanidade. Kafka é um funcionário de limpeza de Kaiju que sonha em se tornar um caçador de Kaiju. Um dia, ele é atacado por um Kaiju e acaba se transformando em um Kaiju.",
-      "chapters": ["50", "49", "48", "50"],
-      "genres": ["Ação", "Shounen", "Sobrenatural", "Fantasia"],
+      "chapters": [
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-12",
+          "pages": "39"
+        },
+        {
+          "number": "49",
+          "title": "Chapter 49",
+          "releaseDate": "2025-07-11",
+          "pages": "33"
+        },
+        {
+          "number": "48",
+          "title": "Chapter 48",
+          "releaseDate": "2025-07-10",
+          "pages": "32"
+        },
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-09",
+          "pages": "30"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Shounen",
+        "Sobrenatural",
+        "Fantasia"
+      ],
       "popularity": "15",
       "score": "8.3",
       "author": "Naoya Matsumoto",
@@ -166,8 +430,32 @@
       "cover": "https://cdn.myanimelist.net/images/anime/1990/139975l.jpg",
       "name": "Dandandan",
       "synopsis": "Momo Ayase é uma estudante do ensino médio que acredita em fantasmas que vêm de uma família de médiuns, enquanto Ken Takakura (apelidado de Okarun, abreviação de Occult-kun), acredita em alienígenas. Os dois discordam um do outro, com Momo não acreditando em alienígenas e Okarun não acreditando em espíritos.",
-      "chapters": ["100", "100,5", "101"],
-      "genres": ["Comédia", "Sobrenatural", "Aventura", "Mistério"],
+      "chapters": [
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-12",
+          "pages": "38"
+        },
+        {
+          "number": "100,5",
+          "title": "Chapter 100,5",
+          "releaseDate": "2025-07-11",
+          "pages": "46"
+        },
+        {
+          "number": "101",
+          "title": "Chapter 101",
+          "releaseDate": "2025-07-10",
+          "pages": "30"
+        }
+      ],
+      "genres": [
+        "Comédia",
+        "Sobrenatural",
+        "Aventura",
+        "Mistério"
+      ],
       "popularity": "4",
       "score": "9.4",
       "author": "Yukinobu Tatsu",
@@ -182,8 +470,38 @@
       "cover": "https://cdn.myanimelist.net/images/anime/1883/146143l.jpg",
       "name": "The Beginning After the End",
       "synopsis": "The Beginning After the End segue a vida de King Grey, um homem que reencarna em um mundo de fantasia como um príncipe após sua morte. King Grey foi um rei extremamente poderoso e sábio que morreu e reencarnou em um mundo de fantasia como um príncipe. Grey terá que usar toda a sua sabedoria e poder para sobreviver nesse novo mundo.",
-      "chapters": ["100", "99", "98,5", "1001"],
-      "genres": ["Ação", "Aventura", "Fantasia", "Reencarnação"],
+      "chapters": [
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-12",
+          "pages": "40"
+        },
+        {
+          "number": "99",
+          "title": "Chapter 99",
+          "releaseDate": "2025-07-11",
+          "pages": "30"
+        },
+        {
+          "number": "98,5",
+          "title": "Chapter 98,5",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-09",
+          "pages": "40"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Reencarnação"
+      ],
       "popularity": "7",
       "score": "9.1",
       "author": "TurtleMe",
@@ -198,8 +516,38 @@
       "cover": "https://i0.wp.com/irisscanlator.com.br/wp-content/uploads/2023/07/001.png",
       "name": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
       "synopsis": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru segue a história de Ruti, uma garota que é morta por um herói que ela considerava seu amigo. Ruti é ressuscitada por um deus que lhe dá a chance de se vingar do herói. Ela é dada a oportunidade de reencarnar em um mundo de fantasia onde ela pode se vingar do herói e se tornar a mais forte guerreira.",
-      "chapters": ["10", "9", "8", "10"],
-      "genres": ["Ação", "Aventura", "Fantasia", "Vingança"],
+      "chapters": [
+        {
+          "number": "10",
+          "title": "Chapter 10",
+          "releaseDate": "2025-07-12",
+          "pages": "45"
+        },
+        {
+          "number": "9",
+          "title": "Chapter 9",
+          "releaseDate": "2025-07-11",
+          "pages": "34"
+        },
+        {
+          "number": "8",
+          "title": "Chapter 8",
+          "releaseDate": "2025-07-10",
+          "pages": "48"
+        },
+        {
+          "number": "10",
+          "title": "Chapter 10",
+          "releaseDate": "2025-07-09",
+          "pages": "47"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Vingança"
+      ],
       "popularity": "13",
       "score": "8.5",
       "author": "Ononata Manimani",
@@ -214,8 +562,38 @@
       "cover": "https://cdn.myanimelist.net/images/anime/1358/143377l.jpg",
       "name": "Blue Lock",
       "synopsis": "Blue Lock segue a história de Isagi Yoichi, um jogador de futebol que é convocado para participar de um programa de treinamento chamado Blue Lock. O programa é um projeto secreto do governo para encontrar e treinar o próximo grande atacante do Japão. Isagi é um dos 300 jogadores convocados para o programa, que é liderado por um treinador misterioso chamado Jinpachi Ego.",
-      "chapters": ["50", "49", "48", "50"],
-      "genres": ["Esporte", "Ação", "Psicológico", "Drama"],
+      "chapters": [
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-12",
+          "pages": "39"
+        },
+        {
+          "number": "49",
+          "title": "Chapter 49",
+          "releaseDate": "2025-07-11",
+          "pages": "46"
+        },
+        {
+          "number": "48",
+          "title": "Chapter 48",
+          "releaseDate": "2025-07-10",
+          "pages": "35"
+        },
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-09",
+          "pages": "43"
+        }
+      ],
+      "genres": [
+        "Esporte",
+        "Ação",
+        "Psicológico",
+        "Drama"
+      ],
       "popularity": "12",
       "score": "8.6",
       "author": "Muneyuki Kaneshiro",
@@ -232,8 +610,38 @@
       "cover": "https://images.alphacoders.com/135/1359819.jpeg",
       "name": "Solo Leveling",
       "synopsis": "Sung Jin-woo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma masmorra dupla, que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão!",
-      "genres": ["Ação", "Aventura", "Fantasia", "Mistério"],
-      "chapters": ["99", "100", "100,5", "1001"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Mistério"
+      ],
+      "chapters": [
+        {
+          "number": "99",
+          "title": "Chapter 99",
+          "releaseDate": "2025-07-12",
+          "pages": "46"
+        },
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-11",
+          "pages": "49"
+        },
+        {
+          "number": "100,5",
+          "title": "Chapter 100,5",
+          "releaseDate": "2025-07-10",
+          "pages": "46"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-09",
+          "pages": "40"
+        }
+      ],
       "popularity": "1",
       "score": "9.8",
       "author": "Chugong",
@@ -248,8 +656,33 @@
       "cover": "https://images8.alphacoders.com/108/1081458.jpg",
       "name": "Shingeki no Kyojin",
       "synopsis": "Attack on Titan se passa em um mundo onde a humanidade vive dentro de cidades cercadas por enormes Muralhas que os protegem dos Titãs, criaturas humanóides gigantes que devoram humanos aparentemente sem motivo. A história gira em torno de Eren Jaeger, sua irmã adotiva Mikasa Ackerman e seu amigo de infância Armin Arlert, cujas vidas mudam para sempre após o aparecimento de um Titã Colossal, que provoca a destruição de sua cidade natal e a morte da mãe de Eren. Jurando vingança e recuperar o mundo dos Titãs, Eren, Mikasa e Armin se juntam a Divisão de Reconhecimento, um grupo de elite de soldados que lutam contra Titãs fora das Muralhas.",
-      "genres": ["Ação", "Drama", "Fantasia", "Mistério", "Terror"],
-      "chapters": ["139", "139,5", "140"],
+      "genres": [
+        "Ação",
+        "Drama",
+        "Fantasia",
+        "Mistério",
+        "Terror"
+      ],
+      "chapters": [
+        {
+          "number": "139",
+          "title": "Chapter 139",
+          "releaseDate": "2025-07-12",
+          "pages": "40"
+        },
+        {
+          "number": "139,5",
+          "title": "Chapter 139,5",
+          "releaseDate": "2025-07-11",
+          "pages": "30"
+        },
+        {
+          "number": "140",
+          "title": "Chapter 140",
+          "releaseDate": "2025-07-10",
+          "pages": "43"
+        }
+      ],
       "popularity": "2",
       "score": "9.6",
       "author": "Hajime Isayama",
@@ -264,8 +697,33 @@
       "cover": "https://wallpapers.com/images/high/naruto-manga-e86faunm0r96om1e.webp",
       "name": "Naruto Clássico",
       "synopsis": "Naruto (ナルト) é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.",
-      "genres": ["Ação", "Aventura", "Comédia", "Drama", "Fantasia"],
-      "chapters": ["700", "700,5", "701"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Drama",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "700",
+          "title": "Chapter 700",
+          "releaseDate": "2025-07-12",
+          "pages": "47"
+        },
+        {
+          "number": "700,5",
+          "title": "Chapter 700,5",
+          "releaseDate": "2025-07-11",
+          "pages": "47"
+        },
+        {
+          "number": "701",
+          "title": "Chapter 701",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        }
+      ],
       "popularity": "3",
       "score": "9.5",
       "author": "Masashi Kishimoto",
@@ -280,8 +738,32 @@
       "cover": "https://cdn.myanimelist.net/images/anime/6/74916l.jpg?_gl=1*119kumj*_gcl_au*MTQxNzU4NDYwMy4xNzMwNTgyMjEy*_ga*NzQ0MDI0MjM3LjE3MzA1ODIyMDU.*_ga_26FEP9527K*MTczMjczMTU3NS41LjEuMTczMjczMTk2MS41OC4wLjA.",
       "name": "Tokyo Ghoul",
       "synopsis": "Tokyo Ghoul é uma série de mangá escrita e ilustrada por Sui Ishida. A história segue Ken Kaneki, um estudante universitário que quase morre em um encontro às cegas com Rize Kamishiro, uma mulher que se revela um Ghoul. Kaneki é levado ao hospital em estado crítico. Depois de recuperar a consciência, ele descobre que passou por uma cirurgia que o transformou em meio-Ghoul. Isso o transforma em um ser híbrido, meio humano e meio Ghoul, e ele é forçado a viver escondido dos humanos.",
-      "genres": ["Ação", "Terror", "Drama", "Mistério"],
-      "chapters": ["143", "144", "145"],
+      "genres": [
+        "Ação",
+        "Terror",
+        "Drama",
+        "Mistério"
+      ],
+      "chapters": [
+        {
+          "number": "143",
+          "title": "Chapter 143",
+          "releaseDate": "2025-07-12",
+          "pages": "36"
+        },
+        {
+          "number": "144",
+          "title": "Chapter 144",
+          "releaseDate": "2025-07-11",
+          "pages": "36"
+        },
+        {
+          "number": "145",
+          "title": "Chapter 145",
+          "releaseDate": "2025-07-10",
+          "pages": "48"
+        }
+      ],
       "popularity": "5",
       "score": "9.3",
       "author": "Sui Ishida",
@@ -296,8 +778,32 @@
       "cover": "https://images3.alphacoders.com/134/1342304.jpeg",
       "name": "One Piece",
       "synopsis": "One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. A história segue as aventuras de Monkey D. Luffy, um jovem cujo corpo ganhou as propriedades de borracha após ter ingerido uma Fruta do Diabo acidentalmente. Com sua tripulação de piratas, chamada de Straw Hat Pirates, Luffy explora a Grand Line em busca do One Piece, o maior tesouro do mundo, para se tornar o Rei dos Piratas.",
-      "genres": ["Ação", "Aventura", "Comédia", "Fantasia"],
-      "chapters": ["1000", "1000,5", "1001"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "1000",
+          "title": "Chapter 1000",
+          "releaseDate": "2025-07-12",
+          "pages": "43"
+        },
+        {
+          "number": "1000,5",
+          "title": "Chapter 1000,5",
+          "releaseDate": "2025-07-11",
+          "pages": "42"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-10",
+          "pages": "35"
+        }
+      ],
       "popularity": "6",
       "score": "9.2",
       "author": "Eiichiro Oda",
@@ -312,8 +818,37 @@
       "cover": "https://cdn.myanimelist.net/images/anime/7/85886l.jpg",
       "name": "Tales of Demons and Gods",
       "synopsis": "Tales of Demons and Gods segue a vida de Nie Li, um dos mais fortes Espiritualistas de sua geração. Ele foi morto por um sábio Imperador Celestial e reencarnou 13 anos no passado. Ele tentará mudar o futuro e salvar sua cidade natal de sua ruína.",
-      "genres": ["Ação", "Aventura", "Fantasia"],
-      "chapters": ["300", "299", "298", "300"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "300",
+          "title": "Chapter 300",
+          "releaseDate": "2025-07-12",
+          "pages": "33"
+        },
+        {
+          "number": "299",
+          "title": "Chapter 299",
+          "releaseDate": "2025-07-11",
+          "pages": "43"
+        },
+        {
+          "number": "298",
+          "title": "Chapter 298",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        },
+        {
+          "number": "300",
+          "title": "Chapter 300",
+          "releaseDate": "2025-07-09",
+          "pages": "48"
+        }
+      ],
       "popularity": "9",
       "score": "8.9",
       "author": "Mad Snail",
@@ -328,8 +863,37 @@
       "cover": "https://cdn.myanimelist.net/images/manga/1/205814l.jpg",
       "name": "The God of High School",
       "synopsis": "The God of High School segue a vida de Jin Mo-Ri, um estudante do ensino médio que é um mestre em Taekwondo e um lutador excepcional. Ele é convidado para participar de um torneio chamado The God of High School, onde os competidores lutam uns contra os outros para ganhar o título de Deus do Ensino Médio. Jin Mo-Ri é um dos competidores mais fortes e habilidosos do torneio e está determinado a vencer.",
-      "genres": ["Ação", "Comédia", "Fantasia"],
-      "chapters": ["500", "499", "498", "500"],
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Fantasia"
+      ],
+      "chapters": [
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-12",
+          "pages": "47"
+        },
+        {
+          "number": "499",
+          "title": "Chapter 499",
+          "releaseDate": "2025-07-11",
+          "pages": "39"
+        },
+        {
+          "number": "498",
+          "title": "Chapter 498",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        },
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-09",
+          "pages": "30"
+        }
+      ],
       "popularity": "10",
       "score": "8.8",
       "author": "Yongje Park",
@@ -344,8 +908,32 @@
       "cover": "https://cdn.myanimelist.net/images/manga/3/180022l.jpg",
       "name": "Bleach",
       "synopsis": "Bleach segue as aventuras de Ichigo Kurosaki, um jovem que acidentalmente adquire poderes de um Shinigami, um ser sobrenatural que combate os espíritos malignos conhecidos como Hollows. Com seus novos poderes, Ichigo é forçado a assumir o papel de um Shinigami e proteger a cidade de Karakura de ameaças espirituais.",
-      "genres": ["Ação", "Comédia", "Fantasia", "Terror"],
-      "chapters": ["800", "800,5", "801"],
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Fantasia",
+        "Terror"
+      ],
+      "chapters": [
+        {
+          "number": "800",
+          "title": "Chapter 800",
+          "releaseDate": "2025-07-12",
+          "pages": "41"
+        },
+        {
+          "number": "800,5",
+          "title": "Chapter 800,5",
+          "releaseDate": "2025-07-11",
+          "pages": "40"
+        },
+        {
+          "number": "801",
+          "title": "Chapter 801",
+          "releaseDate": "2025-07-10",
+          "pages": "42"
+        }
+      ],
       "popularity": "11",
       "score": "8.7",
       "author": "Tite Kubo",
@@ -360,8 +948,32 @@
       "cover": "https://cdn.myanimelist.net/images/manga/1/257841l.jpg",
       "name": "Tower of God",
       "synopsis": "Tower of God segue a jornada de um jovem chamado Bam, que entra em uma torre para encontrar sua amiga Rachel. A torre é um lugar misterioso e cheio de perigos, onde cada andar é governado por um teste. Bam é um Irregular, alguém que não foi escolhido para entrar na torre, mas que entrou por conta própria. Ele é o único Irregular que entrou na torre e é conhecido como o mais fraco de todos. No entanto, ele tem um poder misterioso e é determinado a subir a torre para encontrar Rachel.",
-      "genres": ["Ação", "Aventura", "Fantasia", "Mistério"],
-      "chapters": ["500", "500,5", "501"],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Mistério"
+      ],
+      "chapters": [
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-12",
+          "pages": "39"
+        },
+        {
+          "number": "500,5",
+          "title": "Chapter 500,5",
+          "releaseDate": "2025-07-11",
+          "pages": "41"
+        },
+        {
+          "number": "501",
+          "title": "Chapter 501",
+          "releaseDate": "2025-07-10",
+          "pages": "46"
+        }
+      ],
       "popularity": "14",
       "score": "8.4",
       "author": "SIU",
@@ -378,8 +990,38 @@
       "cover": "https://cdn.myanimelist.net/images/manga/3/252929l.jpg?_gl=1*123aoip*_gcl_au*MTQxNzU4NDYwMy4xNzMwNTgyMjEy*_ga*NzQ0MDI0MjM3LjE3MzA1ODIyMDU.*_ga_26FEP9527K*MTczNDk1OTAzNS43LjEuMTczNDk1OTA3MS4yNC4wLjA.",
       "name": "Kaiju No. 8",
       "synopsis": "Kaiju No. 8 segue a história de Kafka Hibino, um homem que sonha em se tornar um caçador de Kaiju, monstros gigantes que ameaçam a humanidade. Kafka é um funcionário de limpeza de Kaiju que sonha em se tornar um caçador de Kaiju. Um dia, ele é atacado por um Kaiju e acaba se transformando em um Kaiju.",
-      "chapters": ["50", "49", "48", "50"],
-      "genres": ["Ação", "Shounen", "Sobrenatural", "Fantasia"],
+      "chapters": [
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-12",
+          "pages": "42"
+        },
+        {
+          "number": "49",
+          "title": "Chapter 49",
+          "releaseDate": "2025-07-11",
+          "pages": "34"
+        },
+        {
+          "number": "48",
+          "title": "Chapter 48",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        },
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-09",
+          "pages": "31"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Shounen",
+        "Sobrenatural",
+        "Fantasia"
+      ],
       "popularity": "15",
       "score": "8.3",
       "author": "Naoya Matsumoto",
@@ -394,8 +1036,32 @@
       "cover": "https://cdn.myanimelist.net/images/anime/1990/139975l.jpg",
       "name": "Dandandan",
       "synopsis": "Momo Ayase é uma estudante do ensino médio que acredita em fantasmas que vêm de uma família de médiuns, enquanto Ken Takakura (apelidado de Okarun, abreviação de Occult-kun), acredita em alienígenas. Os dois discordam um do outro, com Momo não acreditando em alienígenas e Okarun não acreditando em espíritos.",
-      "chapters": ["100", "100,5", "101"],
-      "genres": ["Comédia", "Sobrenatural", "Aventura", "Mistério"],
+      "chapters": [
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-12",
+          "pages": "47"
+        },
+        {
+          "number": "100,5",
+          "title": "Chapter 100,5",
+          "releaseDate": "2025-07-11",
+          "pages": "37"
+        },
+        {
+          "number": "101",
+          "title": "Chapter 101",
+          "releaseDate": "2025-07-10",
+          "pages": "34"
+        }
+      ],
+      "genres": [
+        "Comédia",
+        "Sobrenatural",
+        "Aventura",
+        "Mistério"
+      ],
       "popularity": "4",
       "score": "9.4",
       "author": "Yukinobu Tatsu",
@@ -410,8 +1076,38 @@
       "cover": "https://cdn.myanimelist.net/images/anime/1883/146143l.jpg",
       "name": "The Beginning After the End",
       "synopsis": "The Beginning After the End segue a vida de King Grey, um homem que reencarna em um mundo de fantasia como um príncipe após sua morte. King Grey foi um rei extremamente poderoso e sábio que morreu e reencarnou em um mundo de fantasia como um príncipe. Grey terá que usar toda a sua sabedoria e poder para sobreviver nesse novo mundo.",
-      "chapters": ["100", "99", "98,5", "1001"],
-      "genres": ["Ação", "Aventura", "Fantasia", "Reencarnação"],
+      "chapters": [
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-12",
+          "pages": "45"
+        },
+        {
+          "number": "99",
+          "title": "Chapter 99",
+          "releaseDate": "2025-07-11",
+          "pages": "46"
+        },
+        {
+          "number": "98,5",
+          "title": "Chapter 98,5",
+          "releaseDate": "2025-07-10",
+          "pages": "34"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-09",
+          "pages": "39"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Reencarnação"
+      ],
       "popularity": "7",
       "score": "9.1",
       "author": "TurtleMe",
@@ -426,8 +1122,38 @@
       "cover": "https://i0.wp.com/irisscanlator.com.br/wp-content/uploads/2023/07/001.png",
       "name": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
       "synopsis": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru segue a história de Ruti, uma garota que é morta por um herói que ela considerava seu amigo. Ruti é ressuscitada por um deus que lhe dá a chance de se vingar do herói. Ela é dada a oportunidade de reencarnar em um mundo de fantasia onde ela pode se vingar do herói e se tornar a mais forte guerreira.",
-      "chapters": ["10", "9", "8", "10"],
-      "genres": ["Ação", "Aventura", "Fantasia", "Vingança"],
+      "chapters": [
+        {
+          "number": "10",
+          "title": "Chapter 10",
+          "releaseDate": "2025-07-12",
+          "pages": "38"
+        },
+        {
+          "number": "9",
+          "title": "Chapter 9",
+          "releaseDate": "2025-07-11",
+          "pages": "33"
+        },
+        {
+          "number": "8",
+          "title": "Chapter 8",
+          "releaseDate": "2025-07-10",
+          "pages": "44"
+        },
+        {
+          "number": "10",
+          "title": "Chapter 10",
+          "releaseDate": "2025-07-09",
+          "pages": "39"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Vingança"
+      ],
       "popularity": "13",
       "score": "8.5",
       "author": "Ononata Manimani",
@@ -442,8 +1168,38 @@
       "cover": "https://cdn.myanimelist.net/images/anime/1358/143377l.jpg",
       "name": "Blue Lock",
       "synopsis": "Blue Lock segue a história de Isagi Yoichi, um jogador de futebol que é convocado para participar de um programa de treinamento chamado Blue Lock. O programa é um projeto secreto do governo para encontrar e treinar o próximo grande atacante do Japão. Isagi é um dos 300 jogadores convocados para o programa, que é liderado por um treinador misterioso chamado Jinpachi Ego.",
-      "chapters": ["50", "49", "48", "50"],
-      "genres": ["Esporte", "Ação", "Psicológico", "Drama"],
+      "chapters": [
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-12",
+          "pages": "49"
+        },
+        {
+          "number": "49",
+          "title": "Chapter 49",
+          "releaseDate": "2025-07-11",
+          "pages": "39"
+        },
+        {
+          "number": "48",
+          "title": "Chapter 48",
+          "releaseDate": "2025-07-10",
+          "pages": "35"
+        },
+        {
+          "number": "50",
+          "title": "Chapter 50",
+          "releaseDate": "2025-07-09",
+          "pages": "33"
+        }
+      ],
+      "genres": [
+        "Esporte",
+        "Ação",
+        "Psicológico",
+        "Drama"
+      ],
       "popularity": "12",
       "score": "8.6",
       "author": "Muneyuki Kaneshiro",
@@ -460,8 +1216,38 @@
       "cover": "https://images.alphacoders.com/135/1359819.jpeg",
       "name": "Solo Leveling",
       "synopsis": "Sung Jin-woo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma masmorra dupla, que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão!",
-      "chapters": ["99", "100", "100,5", "1001"],
-      "genres": ["Ação", "Aventura", "Fantasia", "Sobrenatural"],
+      "chapters": [
+        {
+          "number": "99",
+          "title": "Chapter 99",
+          "releaseDate": "2025-07-12",
+          "pages": "33"
+        },
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-11",
+          "pages": "49"
+        },
+        {
+          "number": "100,5",
+          "title": "Chapter 100,5",
+          "releaseDate": "2025-07-10",
+          "pages": "34"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-09",
+          "pages": "43"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Sobrenatural"
+      ],
       "popularity": "1",
       "score": "9.8",
       "author": "Chugong",
@@ -476,8 +1262,33 @@
       "cover": "https://images8.alphacoders.com/108/1081458.jpg",
       "name": "Shingeki no Kyojin",
       "synopsis": "Attack on Titan se passa em um mundo onde a humanidade vive dentro de cidades cercadas por enormes Muralhas que os protegem dos Titãs, criaturas humanóides gigantes que devoram humanos aparentemente sem motivo. A história gira em torno de Eren Jaeger, sua irmã adotiva Mikasa Ackerman e seu amigo de infância Armin Arlert, cujas vidas mudam para sempre após o aparecimento de um Titã Colossal, que provoca a destruição de sua cidade natal e a morte da mãe de Eren. Jurando vingança e recuperar o mundo dos Titãs, Eren, Mikasa e Armin se juntam a Divisão de Reconhecimento, um grupo de elite de soldados que lutam contra Titãs fora das Muralhas.",
-      "chapters": ["139", "139,5", "140"],
-      "genres": ["Ação", "Aventura", "Drama", "Fantasia", "Mistério"],
+      "chapters": [
+        {
+          "number": "139",
+          "title": "Chapter 139",
+          "releaseDate": "2025-07-12",
+          "pages": "37"
+        },
+        {
+          "number": "139,5",
+          "title": "Chapter 139,5",
+          "releaseDate": "2025-07-11",
+          "pages": "36"
+        },
+        {
+          "number": "140",
+          "title": "Chapter 140",
+          "releaseDate": "2025-07-10",
+          "pages": "41"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Drama",
+        "Fantasia",
+        "Mistério"
+      ],
       "popularity": "2",
       "score": "9.6",
       "author": "Hajime Isayama",
@@ -492,8 +1303,33 @@
       "cover": "https://wallpapers.com/images/high/naruto-manga-e86faunm0r96om1e.webp",
       "name": "Naruto Clássico",
       "synopsis": "Naruto (ナルト) é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.",
-      "chapters": ["700", "700,5", "701"],
-      "genres": ["Ação", "Aventura", "Comédia", "Drama", "Shounen"],
+      "chapters": [
+        {
+          "number": "700",
+          "title": "Chapter 700",
+          "releaseDate": "2025-07-12",
+          "pages": "31"
+        },
+        {
+          "number": "700,5",
+          "title": "Chapter 700,5",
+          "releaseDate": "2025-07-11",
+          "pages": "34"
+        },
+        {
+          "number": "701",
+          "title": "Chapter 701",
+          "releaseDate": "2025-07-10",
+          "pages": "39"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Drama",
+        "Shounen"
+      ],
       "popularity": "3",
       "score": "9.5",
       "author": "Masashi Kishimoto",
@@ -508,8 +1344,33 @@
       "cover": "https://cdn.myanimelist.net/images/anime/6/74916l.jpg",
       "name": "Tokyo Ghoul",
       "synopsis": "Tokyo Ghoul é uma série de mangá escrita e ilustrada por Sui Ishida. A história segue Ken Kaneki, um estudante universitário que quase morre em um encontro às cegas com Rize Kamishiro, uma mulher que se revela um Ghoul. Kaneki é levado ao hospital em estado crítico. Depois de recuperar a consciência, ele descobre que passou por uma cirurgia que o transformou em meio-Ghoul. Isso o transforma em um ser híbrido, meio humano e meio Ghoul, e ele é forçado a viver escondido dos humanos.",
-      "chapters": ["143", "144", "145"],
-      "genres": ["Ação", "Mistério", "Psicológico", "Sobrenatural", "Terror"],
+      "chapters": [
+        {
+          "number": "143",
+          "title": "Chapter 143",
+          "releaseDate": "2025-07-12",
+          "pages": "45"
+        },
+        {
+          "number": "144",
+          "title": "Chapter 144",
+          "releaseDate": "2025-07-11",
+          "pages": "37"
+        },
+        {
+          "number": "145",
+          "title": "Chapter 145",
+          "releaseDate": "2025-07-10",
+          "pages": "36"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Mistério",
+        "Psicológico",
+        "Sobrenatural",
+        "Terror"
+      ],
       "popularity": "5",
       "score": "9.3",
       "author": "Sui Ishida",
@@ -524,8 +1385,33 @@
       "cover": "https://images3.alphacoders.com/134/1342304.jpeg",
       "name": "One Piece",
       "synopsis": "One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. A história segue as aventuras de Monkey D. Luffy, um jovem cujo corpo ganhou as propriedades de borracha após ter ingerido uma Fruta do Diabo acidentalmente. Com sua tripulação de piratas, chamada de Straw Hat Pirates, Luffy explora a Grand Line em busca do One Piece, o maior tesouro do mundo, para se tornar o Rei dos Piratas.",
-      "chapters": ["1000", "1000,5", "1001"],
-      "genres": ["Ação", "Aventura", "Comédia", "Drama", "Shounen"],
+      "chapters": [
+        {
+          "number": "1000",
+          "title": "Chapter 1000",
+          "releaseDate": "2025-07-12",
+          "pages": "34"
+        },
+        {
+          "number": "1000,5",
+          "title": "Chapter 1000,5",
+          "releaseDate": "2025-07-11",
+          "pages": "47"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-10",
+          "pages": "41"
+        }
+      ],
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Drama",
+        "Shounen"
+      ],
       "popularity": "6",
       "score": "9.2",
       "author": "Eiichiro Oda",
@@ -542,7 +1428,32 @@
       "cover": "https://images.alphacoders.com/135/1359819.jpeg",
       "name": "Solo Leveling",
       "synopsis": "Sung Jin-woo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma masmorra dupla, que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão!",
-      "chapters": "99/100/100,5/1001",
+      "chapters": [
+        {
+          "number": "99",
+          "title": "Chapter 99",
+          "releaseDate": "2025-07-12",
+          "pages": "36"
+        },
+        {
+          "number": "100",
+          "title": "Chapter 100",
+          "releaseDate": "2025-07-11",
+          "pages": "37"
+        },
+        {
+          "number": "100,5",
+          "title": "Chapter 100,5",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-09",
+          "pages": "31"
+        }
+      ],
       "popularity": "1",
       "score": "9.8",
       "author": "Chugong",
@@ -550,7 +1461,12 @@
       "publisher": "D&C Media",
       "createdAt": "2023-11-15T10:25:00Z",
       "updatedAt": "2023-12-01T14:30:00Z",
-      "genres": ["Ação", "Aventura", "Fantasia", "Shounen"]
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Shounen"
+      ]
     },
     {
       "id": "234567",
@@ -558,7 +1474,26 @@
       "cover": "https://images8.alphacoders.com/108/1081458.jpg",
       "name": "Shingeki no Kyojin",
       "synopsis": "Attack on Titan se passa em um mundo onde a humanidade vive dentro de cidades cercadas por enormes Muralhas que os protegem dos Titãs, criaturas humanóides gigantes que devoram humanos aparentemente sem motivo. A história gira em torno de Eren Jaeger, sua irmã adotiva Mikasa Ackerman e seu amigo de infância Armin Arlert, cujas vidas mudam para sempre após o aparecimento de um Titã Colossal, que provoca a destruição de sua cidade natal e a morte da mãe de Eren. Jurando vingança e recuperar o mundo dos Titãs, Eren, Mikasa e Armin se juntam a Divisão de Reconhecimento, um grupo de elite de soldados que lutam contra Titãs fora das Muralhas.",
-      "chapters": "139/139,5/140",
+      "chapters": [
+        {
+          "number": "139",
+          "title": "Chapter 139",
+          "releaseDate": "2025-07-12",
+          "pages": "31"
+        },
+        {
+          "number": "139,5",
+          "title": "Chapter 139,5",
+          "releaseDate": "2025-07-11",
+          "pages": "49"
+        },
+        {
+          "number": "140",
+          "title": "Chapter 140",
+          "releaseDate": "2025-07-10",
+          "pages": "33"
+        }
+      ],
       "popularity": "2",
       "score": "9.6",
       "author": "Hajime Isayama",
@@ -566,7 +1501,13 @@
       "publisher": "Kodansha",
       "createdAt": "2022-07-19T08:00:00Z",
       "updatedAt": "2023-05-22T11:15:00Z",
-      "genres": ["Ação", "Drama", "Fantasia", "Shounen", "Sobrenatural"]
+      "genres": [
+        "Ação",
+        "Drama",
+        "Fantasia",
+        "Shounen",
+        "Sobrenatural"
+      ]
     },
     {
       "id": "345678",
@@ -574,7 +1515,26 @@
       "cover": "https://wallpapers.com/images/high/naruto-manga-e86faunm0r96om1e.webp",
       "name": "Naruto Clássico",
       "synopsis": "Naruto (ナルト) é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.",
-      "chapters": "700/700,5/701",
+      "chapters": [
+        {
+          "number": "700",
+          "title": "Chapter 700",
+          "releaseDate": "2025-07-12",
+          "pages": "48"
+        },
+        {
+          "number": "700,5",
+          "title": "Chapter 700,5",
+          "releaseDate": "2025-07-11",
+          "pages": "43"
+        },
+        {
+          "number": "701",
+          "title": "Chapter 701",
+          "releaseDate": "2025-07-10",
+          "pages": "40"
+        }
+      ],
       "popularity": "3",
       "score": "9.5",
       "author": "Masashi Kishimoto",
@@ -582,7 +1542,13 @@
       "publisher": "Shonen Jump+ (Shueisha)",
       "createdAt": "2015-10-14T09:40:00Z",
       "updatedAt": "2016-03-19T12:50:00Z",
-      "genres": ["Ação", "Aventura", "Shounen", "Arte Marcial", "Drama"]
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Shounen",
+        "Arte Marcial",
+        "Drama"
+      ]
     },
     {
       "id": "969640",
@@ -590,7 +1556,26 @@
       "cover": "https://cdn.myanimelist.net/images/anime/6/74916l.jpg?_gl=1*119kumj*_gcl_au*MTQxNzU4NDYwMy4xNzMwNTgyMjEy*_ga*NzQ0MDI0MjM3LjE3MzA1ODIyMDU.*_ga_26FEP9527K*MTczMjczMTU3NS41LjEuMTczMjczMTk2MS41OC4wLjA.",
       "name": "Tokyo Ghoul",
       "synopsis": "Tokyo Ghoul é uma série de mangá escrita e ilustrada por Sui Ishida. A história segue Ken Kaneki, um estudante universitário que quase morre em um encontro às cegas com Rize Kamishiro, uma mulher que se revela um Ghoul. Kaneki é levado ao hospital em estado crítico. Depois de recuperar a consciência, ele descobre que passou por uma cirurgia que o transformou em meio-Ghoul. Isso o transforma em um ser híbrido, meio humano e meio Ghoul, e ele é forçado a viver escondido dos humanos.",
-      "chapters": "143/144/145",
+      "chapters": [
+        {
+          "number": "143",
+          "title": "Chapter 143",
+          "releaseDate": "2025-07-12",
+          "pages": "34"
+        },
+        {
+          "number": "144",
+          "title": "Chapter 144",
+          "releaseDate": "2025-07-11",
+          "pages": "37"
+        },
+        {
+          "number": "145",
+          "title": "Chapter 145",
+          "releaseDate": "2025-07-10",
+          "pages": "47"
+        }
+      ],
       "popularity": "5",
       "score": "9.3",
       "author": "Sui Ishida",
@@ -598,7 +1583,13 @@
       "publisher": "Young Jump (Shueisha)",
       "createdAt": "2016-05-25T16:20:00Z",
       "updatedAt": "2017-03-18T18:30:00Z",
-      "genres": ["Ação", "Horror", "Mistério", "Psicológico", "Sobrenatural"]
+      "genres": [
+        "Ação",
+        "Horror",
+        "Mistério",
+        "Psicológico",
+        "Sobrenatural"
+      ]
     },
     {
       "id": "969641",
@@ -606,7 +1597,26 @@
       "cover": "https://images3.alphacoders.com/134/1342304.jpeg",
       "name": "One Piece",
       "synopsis": "One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. A história segue as aventuras de Monkey D. Luffy, um jovem cujo corpo ganhou as propriedades de borracha após ter ingerido uma Fruta do Diabo acidentalmente. Com sua tripulação de piratas, chamada de Straw Hat Pirates, Luffy explora a Grand Line em busca do One Piece, o maior tesouro do mundo, para se tornar o Rei dos Piratas.",
-      "chapters": "1000/1000,5/1001",
+      "chapters": [
+        {
+          "number": "1000",
+          "title": "Chapter 1000",
+          "releaseDate": "2025-07-12",
+          "pages": "36"
+        },
+        {
+          "number": "1000,5",
+          "title": "Chapter 1000,5",
+          "releaseDate": "2025-07-11",
+          "pages": "36"
+        },
+        {
+          "number": "1001",
+          "title": "Chapter 1001",
+          "releaseDate": "2025-07-10",
+          "pages": "42"
+        }
+      ],
       "popularity": "6",
       "score": "9.2",
       "author": "Eiichiro Oda",
@@ -614,7 +1624,12 @@
       "publisher": "Shonen Jump+ (Shueisha)",
       "createdAt": "1999-07-22T10:10:00Z",
       "updatedAt": "2024-05-05T09:00:00Z",
-      "genres": ["Ação", "Aventura", "Comédia", "Shounen"]
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Comédia",
+        "Shounen"
+      ]
     },
     {
       "id": "969644",
@@ -622,7 +1637,32 @@
       "cover": "https://cdn.myanimelist.net/images/anime/7/85886l.jpg",
       "name": "Tales of Demons and Gods",
       "synopsis": "Tales of Demons and Gods segue a vida de Nie Li, um dos mais fortes Espiritualistas de sua geração. Ele foi morto por um sábio Imperador Celestial e reencarnou 13 anos no passado. Ele tentará mudar o futuro e salvar sua cidade natal de sua ruína.",
-      "chapters": "300/299/298/300",
+      "chapters": [
+        {
+          "number": "300",
+          "title": "Chapter 300",
+          "releaseDate": "2025-07-12",
+          "pages": "39"
+        },
+        {
+          "number": "299",
+          "title": "Chapter 299",
+          "releaseDate": "2025-07-11",
+          "pages": "45"
+        },
+        {
+          "number": "298",
+          "title": "Chapter 298",
+          "releaseDate": "2025-07-10",
+          "pages": "35"
+        },
+        {
+          "number": "300",
+          "title": "Chapter 300",
+          "releaseDate": "2025-07-09",
+          "pages": "35"
+        }
+      ],
       "popularity": "9",
       "score": "8.9",
       "author": "Mad Snail",
@@ -630,7 +1670,13 @@
       "publisher": "Qidian",
       "createdAt": "2014-11-25T08:30:00Z",
       "updatedAt": "2015-06-20T13:40:00Z",
-      "genres": ["Ação", "Aventura", "Fantasia", "Martial Arts", "Sobrenatural"]
+      "genres": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Martial Arts",
+        "Sobrenatural"
+      ]
     },
     {
       "id": "969645",
@@ -638,7 +1684,32 @@
       "cover": "https://cdn.myanimelist.net/images/manga/1/205814l.jpg",
       "name": "The God of High School",
       "synopsis": "The God of High School segue a vida de Jin Mo-Ri, um estudante do ensino médio que é um mestre em Taekwondo e um lutador excepcional. Ele é convidado para participar de um torneio chamado The God of High School, onde os competidores lutam uns contra os outros para ganhar o título de Deus do Ensino Médio. Jin Mo-Ri é um dos competidores mais fortes e habilidosos do torneio e está determinado a vencer.",
-      "chapters": "500/499/498/500",
+      "chapters": [
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-12",
+          "pages": "30"
+        },
+        {
+          "number": "499",
+          "title": "Chapter 499",
+          "releaseDate": "2025-07-11",
+          "pages": "41"
+        },
+        {
+          "number": "498",
+          "title": "Chapter 498",
+          "releaseDate": "2025-07-10",
+          "pages": "40"
+        },
+        {
+          "number": "500",
+          "title": "Chapter 500",
+          "releaseDate": "2025-07-09",
+          "pages": "48"
+        }
+      ],
       "popularity": "10",
       "score": "8.8",
       "author": "Yongje Park",
@@ -646,7 +1717,11 @@
       "publisher": "Naver Webtoon",
       "createdAt": "2011-04-30T10:10:00Z",
       "updatedAt": "2012-01-18T12:40:00Z",
-      "genres": ["Ação", "Comédia", "Fantasia"]
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Fantasia"
+      ]
     }
   ],
   "tags": [
