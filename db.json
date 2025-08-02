@@ -5922,6 +5922,370 @@
       "name": "Martial Arts"
     }
   ],
+  "comments": [
+    {
+      "id": "c1",
+      "parentCommentId": null,
+      "user": {
+        "id": "u1",
+        "photo": "https://i.pinimg.com/280x280_RS/48/de/69/48de698ef6a556f7fc5d10b365170951.jpg",
+        "name": "Usuário de alta periculosidade",
+        "bio": "Usuário experiente da plataforma",
+        "moderator": {
+          "isModerator": true,
+          "since": "2023-01-15T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 150,
+          "likes": 2500,
+          "dislikes": 50
+        }
+      },
+      "isOwner": true,
+      "isHighlighted": true,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T08:42:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "5",
+      "likeCount": "120"
+    },
+    {
+      "id": "c2",
+      "parentCommentId": "c1",
+      "user": {
+        "id": "u2",
+        "photo": "https://storage.googleapis.com/pod_public/1300/207360.jpg",
+        "name": "Naruto Uzumaki",
+        "bio": "Hokage da Vila da Folha",
+        "member": {
+          "isMember": true,
+          "since": "2023-03-20T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 89,
+          "likes": 1200,
+          "dislikes": 15
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": true,
+      "createdAt": "2025-08-02T08:45:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "2",
+      "likeCount": "45"
+    },
+    {
+      "id": "c3",
+      "parentCommentId": "c1",
+      "user": {
+        "id": "u3",
+        "photo": "https://boo-prod.b-cdn.net/database/profiles/16779658133692cab7e879edd111139eefe3687a5e51c.jpg?class=sm",
+        "name": "Sasuke Uchiha",
+        "bio": "Último dos Uchiha",
+        "statistics": {
+          "comments": 67,
+          "likes": 890,
+          "dislikes": 25
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T08:50:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit?",
+      "imageContent": null,
+      "dislikeCount": "8",
+      "likeCount": "32"
+    },
+    {
+      "id": "c4",
+      "parentCommentId": null,
+      "user": {
+        "id": "u2",
+        "photo": "https://storage.googleapis.com/pod_public/1300/207360.jpg",
+        "name": "Naruto Uzumaki",
+        "bio": "Hokage da Vila da Folha",
+        "member": {
+          "isMember": true,
+          "since": "2023-03-20T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 89,
+          "likes": 1200,
+          "dislikes": 15
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T08:55:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "3",
+      "likeCount": "67"
+    },
+    {
+      "id": "c5",
+      "parentCommentId": "c4",
+      "user": {
+        "id": "u1",
+        "photo": "https://i.pinimg.com/280x280_RS/48/de/69/48de698ef6a556f7fc5d10b365170951.jpg",
+        "name": "Usuário de alta periculosidade",
+        "bio": "Usuário experiente da plataforma",
+        "moderator": {
+          "isModerator": true,
+          "since": "2023-01-15T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 150,
+          "likes": 2500,
+          "dislikes": 50
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:00:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "1",
+      "likeCount": "89"
+    },
+    {
+      "id": "c6",
+      "parentCommentId": "c5",
+      "user": {
+        "id": "u4",
+        "photo": "https://pt.quizur.com/_image?href=https%3A%2F%2Fimg.quizur.com%2Ff%2Fimg631b0d291bede6.24534360.jpg%3FlastEdited%3D1662717231&w=600&h=600&f=webp",
+        "name": "Hinata Hyuga",
+        "bio": "Princesa do clã Hyuga",
+        "member": {
+          "isMember": true,
+          "since": "2023-04-10T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 45,
+          "likes": 678,
+          "dislikes": 8
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:05:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "0",
+      "likeCount": "34"
+    },
+    {
+      "id": "c7",
+      "parentCommentId": "c6",
+      "user": {
+        "id": "u1",
+        "photo": "https://i.pinimg.com/280x280_RS/48/de/69/48de698ef6a556f7fc5d10b365170951.jpg",
+        "name": "Usuário de alta periculosidade",
+        "bio": "Usuário experiente da plataforma",
+        "moderator": {
+          "isModerator": true,
+          "since": "2023-01-15T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 150,
+          "likes": 2500,
+          "dislikes": 50
+        }
+      },
+      "isOwner": true,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:10:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "2",
+      "likeCount": "78"
+    },
+    {
+      "id": "c8",
+      "parentCommentId": "c7",
+      "user": {
+        "id": "u1",
+        "photo": "https://i.pinimg.com/280x280_RS/48/de/69/48de698ef6a556f7fc5d10b365170951.jpg",
+        "name": "Usuário de alta periculosidade",
+        "bio": "Usuário experiente da plataforma",
+        "moderator": {
+          "isModerator": true,
+          "since": "2023-01-15T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 150,
+          "likes": 2500,
+          "dislikes": 50
+        }
+      },
+      "isOwner": true,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:15:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "1",
+      "likeCount": "56"
+    },
+    {
+      "id": "c9",
+      "parentCommentId": "c7",
+      "user": {
+        "id": "u1",
+        "photo": "https://i.pinimg.com/280x280_RS/48/de/69/48de698ef6a556f7fc5d10b365170951.jpg",
+        "name": "Usuário de alta periculosidade",
+        "bio": "Usuário experiente da plataforma",
+        "moderator": {
+          "isModerator": true,
+          "since": "2023-01-15T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 150,
+          "likes": 2500,
+          "dislikes": 50
+        }
+      },
+      "isOwner": true,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:20:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "0",
+      "likeCount": "43"
+    },
+    {
+      "id": "c10",
+      "parentCommentId": "c6",
+      "user": {
+        "id": "u1",
+        "photo": "https://i.pinimg.com/280x280_RS/48/de/69/48de698ef6a556f7fc5d10b365170951.jpg",
+        "name": "Usuário de alta periculosidade",
+        "bio": "Usuário experiente da plataforma",
+        "moderator": {
+          "isModerator": true,
+          "since": "2023-01-15T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 150,
+          "likes": 2500,
+          "dislikes": 50
+        }
+      },
+      "isOwner": true,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:25:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "1",
+      "likeCount": "67"
+    },
+    {
+      "id": "c11",
+      "parentCommentId": "c4",
+      "user": {
+        "id": "u5",
+        "photo": "https://cdn.ome.lt/uno0VMDEDgYjPNHHzp01Pxpzs6M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome-346.png",
+        "name": "Sakura Haruno",
+        "bio": "Ninja médica da Vila da Folha",
+        "statistics": {
+          "comments": 78,
+          "likes": 945,
+          "dislikes": 12
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:30:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit? Nesciunt autem, ut illum maxime atque ullam quo eum quod eius ducimus iure fugiat har.",
+      "imageContent": null,
+      "dislikeCount": "3",
+      "likeCount": "29"
+    },
+    {
+      "id": "c12",
+      "parentCommentId": "c4",
+      "user": {
+        "id": "u5",
+        "photo": "https://cdn.ome.lt/uno0VMDEDgYjPNHHzp01Pxpzs6M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome-346.png",
+        "name": "Sakura Haruno",
+        "bio": "Ninja médica da Vila da Folha",
+        "statistics": {
+          "comments": 78,
+          "likes": 945,
+          "dislikes": 12
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:35:00.000Z",
+      "textContent": null,
+      "imageContent": null,
+      "dislikeCount": "1",
+      "likeCount": "15"
+    },
+    {
+      "id": "c13",
+      "parentCommentId": "c12",
+      "user": {
+        "id": "u4",
+        "photo": "https://pt.quizur.com/_image?href=https%3A%2F%2Fimg.quizur.com%2Ff%2Fimg631b0d291bede6.24534360.jpg%3FlastEdited%3D1662717231&w=600&h=600&f=webp",
+        "name": "Hinata Hyuga",
+        "bio": "Princesa do clã Hyuga",
+        "member": {
+          "isMember": true,
+          "since": "2023-04-10T00:00:00.000Z"
+        },
+        "statistics": {
+          "comments": 45,
+          "likes": 678,
+          "dislikes": 8
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:40:00.000Z",
+      "textContent": null,
+      "imageContent": "https://t.ctcdn.com.br/LH0-pVW87nALWza-n2YXafNP-ng=/768x432/smart/i598772.jpeg",
+      "dislikeCount": "0",
+      "likeCount": "42"
+    },
+    {
+      "id": "c14",
+      "parentCommentId": "c13",
+      "user": {
+        "id": "u5",
+        "photo": "https://cdn.ome.lt/uno0VMDEDgYjPNHHzp01Pxpzs6M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome-346.png",
+        "name": "Sakura Haruno",
+        "bio": "Ninja médica da Vila da Folha",
+        "statistics": {
+          "comments": 78,
+          "likes": 945,
+          "dislikes": 12
+        }
+      },
+      "isOwner": false,
+      "isHighlighted": false,
+      "wasEdited": false,
+      "createdAt": "2025-08-02T09:45:00.000Z",
+      "textContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, nam velit?",
+      "imageContent": "https://c0.klipartz.com/pngpicture/77/557/gratis-png-kyon-anime-manga-internet-meme-haruhi-suzumiya-anime.png",
+      "dislikeCount": "2",
+      "likeCount": "18"
+    }
+  ],
   "certificates": [
     {
       "name": "Curso de React",
